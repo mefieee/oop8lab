@@ -1,0 +1,4 @@
+C:\Users\Vitalii\Desktop\2 kyrs\lab OOP\1\oop8\oop8\x64\Debug\oop8.vcxproj.AssemblyReference.cache
+C:\Users\Vitalii\Desktop\2 kyrs\lab OOP\1\oop8\oop8\x64\Debug\oop8.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Vitalii\Desktop\2 kyrs\lab OOP\1\oop8\oop8\x64\Debug\oop8.MyForm.resources
+C:\Users\Vitalii\Desktop\2 kyrs\lab OOP\1\oop8\oop8\x64\Debug\oop8.vcxproj.GenerateResource.cache
